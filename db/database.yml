@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: site_screeen
+  pool: 5
+  username: site_screeen
+  password: site_screeen
